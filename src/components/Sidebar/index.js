@@ -59,7 +59,7 @@ const Sidebar = () => {
                     <a
                     target="_blank"
                     rel='noreferrer'
-                    href="https://drive.google.com/drive/folders/1L-kx5ta9Ip3YQdirJMhrQanEUPJJz8Im?usp=sharing">
+                    href="https://drive.google.com/file/d/1dgN0flqUgPJkDfFTNNgmOZisUULHAWkU/view?usp=sharing">
                         <FontAwesomeIcon icon={faFilePdf} color="#4d4d4e" />
                     </a>
                 </li>
