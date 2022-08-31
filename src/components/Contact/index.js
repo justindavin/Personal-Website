@@ -77,9 +77,7 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className='info-map'>
-                    Justin Lee,
-                    <br />
-                    71 Morgan Ave, L3T1R5 <br />
+                    Justin Lee,<br />
                     Ontario <br />
                     <span>justindavinlee@gmail.com</span>
                 </div>
