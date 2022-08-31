@@ -5,7 +5,7 @@ import LogoJ from '../../assets/images/logo-j.png';
 import LogoSubtitle from '../../assets/images/logo-subtitle.png';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faUser, faEnvelope, faSuitcase, faBars, faClose } from '@fortawesome/free-solid-svg-icons';
+import { faHome, faUser, faEnvelope, faSuitcase, faBars, faClose, faFilePdf } from '@fortawesome/free-solid-svg-icons';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { useState } from 'react';
 
@@ -55,6 +55,14 @@ const Sidebar = () => {
                 />
             </nav>
             <ul>
+                <li>
+                    <a
+                    target="_blank"
+                    rel='noreferrer'
+                    href="https://drive.google.com/drive/folders/1L-kx5ta9Ip3YQdirJMhrQanEUPJJz8Im?usp=sharing">
+                        <FontAwesomeIcon icon={faFilePdf} color="#4d4d4e" />
+                    </a>
+                </li>
                 <li>
                     <a
                     target="_blank"
