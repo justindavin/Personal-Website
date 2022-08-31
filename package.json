@@ -27,7 +27,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d react-portfolio",
+    "deploy": "gh-pages -d src",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
