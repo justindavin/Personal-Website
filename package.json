@@ -24,11 +24,13 @@
     "sass": "^1.54.5",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://github.com/justindavin/Personal-Website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d src",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -59,6 +61,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/justindavin/Personal-Website/issues"
-  },
-  "homepage": "https://github.com/justindavin/Personal-Website"
+  }
 }
