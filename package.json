@@ -1,8 +1,8 @@
 {
-  "homepage": "https://justindavin.github.io/Personal-Website/",
+  "homepage": "https://justindavin.github.io/",
   "name": "react-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
