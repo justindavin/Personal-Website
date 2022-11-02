@@ -3,39 +3,51 @@
         
         {
             "cover": "/portfolio/Pierian_Data_Logo.png",
-            "title": "DS/Python Data Science Machine Learning Bootcamp",
+            "title": "DS / Python Data Science Machine Learning Bootcamp",
             "description": "Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Tensorflow,",
             "url": "https://github.com/justindavin/Data-Science-Bootcamp"
         },
         {
             "cover": "/portfolio/statistics.jpg",
-            "title": "EDA/Data Science Survey 2020 Competition",
+            "title": "EDA / Data Science Survey 2020 Competition",
             "description": "Pandas, NumPy, Matplotlib, Plotly",
             "url": "https://github.com/justindavin/Kaggle-Data-Science-Survey-Competition-2020"
         },
         {
             "cover": "/portfolio/titanic.jpg",
-            "title": "ML/Titanic Project",
+            "title": "ML / Titanic Project",
             "description": "Python, Pandas, NumPy, Matplotlib, Scikit-learn",
             "url": "https://github.com/justindavin/Titanic-Project"
         },
         {
             "cover": "/portfolio/stocks.jpg",
-            "title": "ML/Stock News Sentimental Analysis",
+            "title": "ML / Stock News Sentimental Analysis",
             "description": "Python, Transformers, BS4",
             "url": "https://github.com/justindavin/Stock-News-Sentiment-Analysis"
         },
         {
             "cover": "/portfolio/patient.jpg",
-            "title": "ML/CP468 Stroke Prediction Project",
+            "title": "ML / CP468 Stroke Prediction Project",
             "description": "Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn",
             "url": "https://github.com/justindavin/CP468-Term-Project"
         },
         {
+            "cover": "/portfolio/housing.jpg",
+            "title": "SQL / Nashville Housing Project",
+            "description": "SQL",
+            "url": "https://github.com/justindavin/SQL-Nashville-Housing-Project"
+        },
+        {
+            "cover": "/portfolio/covid.jpg",
+            "title": "SQL / COVID-19 Project",
+            "description": "SQL, Tableau",
+            "url": "https://github.com/justindavin/SQL-COVID-19-Project"
+        },
+        {
             "cover": "/portfolio/website.png",
-            "title": "React/Portfolio Website",
+            "title": "React / Portfolio Website",
             "description": "JavaScript, React, HTML",
-            "url": "https://github.com/justindavin/Personal-Website"
+            "url": "https://github.com/justindavin/justindavin.github.io"
         }
 
     ]

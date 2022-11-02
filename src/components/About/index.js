@@ -24,7 +24,7 @@ const About = () => {
             technologies on challenging and diverse projects.
                 </p>
                 <p>
-                I'm quiet confident, naturally curious, and always looking to improve in both myself and my skills.
+                I'm quite confident, naturally curious, and always looking to improve in both myself and my skills.
                 </p>
                 <p>
                 If I need to define myself in one sentence that would be a passionate, athletic, and tech-obsessed University student!!!
